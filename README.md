@@ -11,14 +11,11 @@ Le-Vision is a Next.js-based application designed to assist vision-impaired user
 - Real-time navigation assistance based on processed data
 
 ## Tech Stack
-
-- Frontend Framework: Next.js 14 with TypeScript
+- Frontend: Next.js 14 with TypeScript
 - UI Components: shadcn
 - Styling: Tailwind CSS
 - Icons: Lucide React
-- Video Capture: React Webcam
-- Audio Capture: MediaRecorder API
-- Screen Capture: Screen Capture API
+- Video, Audio and Screen Capture: React Webcam
 - HTTP Client: Axios
 
 ## Getting Started
